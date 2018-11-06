@@ -1,0 +1,3 @@
+C:/Users/adams/CLionProjects/IAL/2.Projekt/c402/cmake-build-debug/CMakeFiles/c402.dir
+C:/Users/adams/CLionProjects/IAL/2.Projekt/c402/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adams/CLionProjects/IAL/2.Projekt/c402/cmake-build-debug/CMakeFiles/rebuild_cache.dir
